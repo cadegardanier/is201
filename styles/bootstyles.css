@@ -1,0 +1,58 @@
+.background{
+    background-color: rgb(237, 237, 237);
+}
+
+.common {
+    background-color: rgb(237, 237, 237);
+    position: absolute;
+}
+
+.tabfooter{
+    height: 25px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(85, 119, 185);
+    text-align: center;
+    position: relative;
+    padding-top: 20px;
+}
+.tabheader{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(85, 119, 185);
+}
+.subheader{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(85, 119, 185);
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(85, 119, 185);
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+.tableauWidth{
+	width: 	85% !important;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	outline: solid black 2px;
+}
+.backtotop{
+    color: rgb(85, 119, 185);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:visited{
+    color: rgb(85, 119, 185);
+    font-style: normal;
+}
